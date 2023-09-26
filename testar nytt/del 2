@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <style>
+            .röd{
+                height: 100px;
+                width: 100px;
+                background-color: red;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="röd"></div>
+    </body>
+</html>

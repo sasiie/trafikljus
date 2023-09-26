@@ -1,0 +1,73 @@
+.background{
+    background-color: grey;
+
+}
+.red{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    margin-left: 5px;
+    border: 15px solid darkred;
+    margin-top: 7px;
+}
+.innerR{
+    background-color: red;
+    width: 150px;
+    height: 75px;
+}
+.innerRe{
+    background-color: white;
+    width: 150px;
+    height: 75px;
+    opacity: 50%;
+}
+.yellow{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    margin-left: 5px;
+    margin-top: 7px;
+    border: 15px solid darkgoldenrod
+}
+.innerY{
+    background-color: yellow;
+    width: 75px;
+    height: 75px;
+    
+}
+.innerYe{
+    background-color: white;
+    width: 75px;
+    height: 75px;
+    opacity: 50%;
+    border-left: 75px solid yellow;
+}
+.green{
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    margin-left: 5px;
+    border: 15px solid darkgreen;
+    margin-top: 7px; 
+    margin-bottom: 7px;
+}
+.innerG{
+    background-color: green;
+    width: 75px;
+    height: 75px;
+}
+.innerGr{
+    background-color: white;
+    width: 75px;
+    height: 75px;
+    opacity: 50%;
+}
+.container{
+    height: 550x;
+    width: 190px;
+    background-color: white;
+    margin-left: 200px;
+    border: 2px solid black;
+    margin-top: 50px;
+}
+
